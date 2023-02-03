@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nftpreviewcardcomponent-fXReSuwzAf)
 - Live Site URL: [nft-preview-card-component](https://grinchcreator.github.io/nft-preview-card-component)
 
 ## My process
